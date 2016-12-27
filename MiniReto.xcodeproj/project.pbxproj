@@ -47,6 +47,7 @@
 		7C8633E61E12A746002770E5 /* MiniRetoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MiniRetoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C8633EA1E12A746002770E5 /* MiniRetoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniRetoUITests.swift; sourceTree = "<group>"; };
 		7C8633EC1E12A746002770E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CA59C971E12B177003CB6EC /* MiniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MiniReto.playground; path = ../../MiniReto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		7C8633C91E12A745002770E5 /* MiniReto */ = {
 			isa = PBXGroup;
 			children = (
+				7CA59C971E12B177003CB6EC /* MiniReto.playground */,
 				7C8633CA1E12A745002770E5 /* AppDelegate.swift */,
 				7C8633CC1E12A745002770E5 /* ViewController.swift */,
 				7C8633CE1E12A745002770E5 /* Main.storyboard */,
@@ -503,6 +505,7 @@
 				7C8633F11E12A746002770E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C8633F21E12A746002770E5 /* Build configuration list for PBXNativeTarget "MiniRetoTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +514,7 @@
 				7C8633F41E12A746002770E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C8633F51E12A746002770E5 /* Build configuration list for PBXNativeTarget "MiniRetoUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +523,7 @@
 				7C8633F71E12A746002770E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
